@@ -1,5 +1,4 @@
 import React from 'react';
-import Image from "../images/hero-bg.jpg"
 
 function About() {
 
